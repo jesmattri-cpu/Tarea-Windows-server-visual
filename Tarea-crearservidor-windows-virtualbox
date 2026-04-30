@@ -1,10 +1,14 @@
 1.- Primero asegurese de que tenga descargada y accesible una imagen ISO o VHD de un servidor Windows 2019 disponible.
 
+
 2.- le asignamos un nombre y sus especificaciones, este disco duro tendra 2048 MB para su memoria base, puede utilizar 2 núcleos y tiene una memoria de 50 GB, tambien le damos a "Skip unnatended installation"
+
 
 3.-Después de escoger el idiome que desemos que esté la maquina debemos decidir qu versión de window s19 deseamos, àra esta tarea necesitamos windows server 2019 Standart Evaluation (Experiencia de escritorio)
 
+
 4.- En la siguiente pantalla escogemos "Acepto los terinos de licensia" y en la siguienta pantalla esogemos instalar solo windows porquue lo otro no es necesario para esta tarea
+
 
 5.-Nos pondra en una pantalla donde tenemos que escoger el disco duro que creamos antes, cuan hayaos hechoeso deberemos esperar a que la maquina virtual termin de instalar windows
 
