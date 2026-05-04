@@ -1,5 +1,5 @@
 ---
 "Como descargar Windows server 22 visual en una maquina virtual"
 ---
-flowchart LR
-  id1[¿Tienes una imágen ISO Instalada?]
+flowchart TB
+  id1[¿Tienes una imágen ISO Instalada?] --> id2[si]
