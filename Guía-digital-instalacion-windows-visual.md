@@ -3,3 +3,5 @@
 ---
 flowchart TB
   id1[¿Tienes una imágen ISO Instalada?] --> id2[si]
+
+---
