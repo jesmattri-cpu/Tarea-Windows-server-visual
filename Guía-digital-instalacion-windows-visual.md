@@ -4,5 +4,5 @@ graph TD;
     id1[¿Tienes una imagen iso?]-->id3[No];
     id2[Si]-->id4[Instala una];
     id3[No]-->id5[Entra a Virtualbox];
-    id4
+    id5-->id6[Selecciona el archivo de la imagen ISO];
 ```
