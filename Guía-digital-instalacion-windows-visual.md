@@ -1,1 +1,7 @@
 
+@startuml
+
+(*) --> "First Activity"
+"First Activity" --> (*)
+
+@enduml
