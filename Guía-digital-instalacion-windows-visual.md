@@ -1,3 +1,4 @@
+title: Como instalar un servidor Windows 2019 visual
 ```mermaid
 graph TD;
     id1[¿Tienes una
@@ -21,8 +22,9 @@ id9-->id10[Selecciona el idioma
 y región que desees]
 id10-->id11[Espera unos
  minutos a que
- la máquina virtual se prepare
-para ser usada];
+ la máquina virtual se
+prepare para ser
+usada];
 id11-->id12[Establece tu nombre
 y contraseña cuando este lista]
 id12-->id13[Introducelos para
