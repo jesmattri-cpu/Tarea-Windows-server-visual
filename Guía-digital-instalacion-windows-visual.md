@@ -1,4 +1,6 @@
-title: Como instalar un servidor Windows 2019 visual
+---
+Como instalar un servidor Windows 2019 visual
+---
 ```mermaid
 graph TD;
     id1[¿Tienes una
