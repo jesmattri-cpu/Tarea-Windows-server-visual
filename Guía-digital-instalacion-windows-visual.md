@@ -26,8 +26,8 @@ para ser usada];
 id11-->id12[Establece tu nombre
 y contraseña cuando este lista]
 id12-->id13[Introducelos para
-acceder al servidor y permite
-que otros ordenadores
- lo vean
-en la red]
+acceder al servidor y
+permite que otros
+ ordenadores lo
+vean en la red]
 ```
