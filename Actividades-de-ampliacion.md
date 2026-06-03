@@ -25,10 +25,8 @@ incluye nuevos desarrollos en el campo de los Contenedores de Windows Server (en
  
 Instala en tu equipo servidor un servidor web para poder acceder desde uno de los equipos clientes que has creado con Windows 10. Comprueba su funcionamiento.
 
-2.55.
- 
-Descarga desde la web de la editorial los apuntes más detallados y ejercicios sobre los comandos de PowerShell. Realiza los ejercicios relacionados con lo visto en esta unidad.
+<img width="1368" height="880" alt="image" src="https://github.com/user-attachments/assets/61aa86bc-a60b-43e0-9edc-0307cc3f75b5" />
 
-2.56.
- 
-Instala mediante WDS un equipo cliente con Windows 10 con el siguiente software instalado: un antivirus, un paquete ofimático (como OpenOffice o Microsoft Office) y el lector de pdf Adobe Reader. Llama a esa máquina virtual Cliente3.
+<img width="1026" height="850" alt="image" src="https://github.com/user-attachments/assets/9aecc745-04a9-4f79-afea-839efc680d00" />
+
+
